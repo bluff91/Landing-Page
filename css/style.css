@@ -1,0 +1,48 @@
+.first {
+    background-color: #1f2937;
+    height: 25%;
+    padding: 8px 120px;
+    
+}
+
+.logo {
+    display: flex;
+    color: #F8FAf9;
+    align-items: center;
+    
+
+}
+.header {
+    display: flex;
+    padding: 8px 0px;
+    justify-content: space-between;
+}
+.header-links {
+
+}
+
+a {
+    text-decoration: none;
+    color: #F8FAf9;
+}
+ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+.tittle {
+    color: #F8FAf9;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.img {
+    display: flex;
+    background: white;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 16px rgba(rgb(27, 161, 202), green, blue, alpha);
+    justify-content: center;
+    align-items: center;
+    
+}
